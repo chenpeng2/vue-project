@@ -3,7 +3,7 @@
 > 一个使用vuejs搭建的售卖平台demo
 
 ## Build Setup
-<img src="http://cppics.b0.upaiyun.com/vue/vue-project.png"/>
+<img src="http://cppics.b0.upaiyun.com/vue/logo.png"/>
 ``` bash
 # install dependencies
 npm install
